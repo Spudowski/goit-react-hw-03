@@ -1,0 +1,19 @@
+.searchbox-container {
+    margin: 32px;
+    width: 335px;
+    margin-inline: auto;
+    margin-bottom: 0;
+}
+
+.searchbox-container p {
+    display: flex;
+}
+
+.searchbox-container input {
+    width: 320px;
+    height: 40px;
+    margin: 0 auto;
+    border-radius: 8px;
+    border: 1px solid hsl(0, 1%, 29%);
+    padding-left: 12px;
+}

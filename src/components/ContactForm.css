@@ -1,0 +1,14 @@
+Form div input {
+    width: 320px;
+    height: 40px;
+    margin: 0 auto;
+    margin-bottom: 16px;
+    border-radius: 8px;
+    border: 1px solid hsl(0, 1%, 29%);
+    padding-left: 12px;
+}
+
+.error {
+    margin-bottom: 12px;
+    color: hsla(0, 100%, 65%, 0.8);
+}
